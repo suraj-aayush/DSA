@@ -1,0 +1,1 @@
+This Folder contains code about different operations that can be perofrmed on stack.
