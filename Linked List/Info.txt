@@ -1,1 +1,0 @@
-This Folder contains codes related to LINKED LIST.
