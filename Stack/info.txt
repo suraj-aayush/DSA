@@ -1,1 +1,0 @@
-this folder contains codes on stack and stack impelmentation using other data structures
